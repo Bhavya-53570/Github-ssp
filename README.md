@@ -1,1 +1,1 @@
-# Github-ssp
+# Github-ssp project for practical
